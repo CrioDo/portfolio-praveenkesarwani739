@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-praveenkesarwani739/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-praveenkesarwani739/static/js/main.60523e4d.chunk.js",
+    "main.js.map": "/portfolio-praveenkesarwani739/static/js/main.60523e4d.chunk.js.map",
+    "runtime-main.js": "/portfolio-praveenkesarwani739/static/js/runtime-main.af623994.js",
+    "runtime-main.js.map": "/portfolio-praveenkesarwani739/static/js/runtime-main.af623994.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-praveenkesarwani739/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.f16c8bb7.chunk.js": "/portfolio-praveenkesarwani739/static/js/2.f16c8bb7.chunk.js",
+    "static/js/2.f16c8bb7.chunk.js.map": "/portfolio-praveenkesarwani739/static/js/2.f16c8bb7.chunk.js.map",
+    "index.html": "/portfolio-praveenkesarwani739/index.html",
+    "precache-manifest.8277d72bc5bf67f6ebc210d388f8dda3.js": "/portfolio-praveenkesarwani739/precache-manifest.8277d72bc5bf67f6ebc210d388f8dda3.js",
+    "service-worker.js": "/portfolio-praveenkesarwani739/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-praveenkesarwani739/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-praveenkesarwani739/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.f16c8bb7.chunk.js.LICENSE.txt": "/portfolio-praveenkesarwani739/static/js/2.f16c8bb7.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-praveenkesarwani739/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-praveenkesarwani739/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af623994.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.f16c8bb7.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.60523e4d.chunk.js"
+  ]
+}
